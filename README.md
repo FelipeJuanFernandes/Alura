@@ -1,2 +1,2 @@
 # Alura
-Repositório criado para cursos da Alura
+Repositório criado para cursos da Alura...
